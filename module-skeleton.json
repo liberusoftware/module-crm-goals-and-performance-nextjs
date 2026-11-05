@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-goals-and-performance-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-goals-and-performance",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-goals-and-performance-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/goals-and-performance.md",
+  "presentationPlan": "projects/crm/nextjs/goals-and-performance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
